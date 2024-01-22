@@ -1,0 +1,10 @@
+C:\Users\cchellaboyina\source\repos\ClassLibraryDemo\ClassLibraryDemo\bin\Debug\ClassLibraryDemo.exe.config
+C:\Users\cchellaboyina\source\repos\ClassLibraryDemo\ClassLibraryDemo\bin\Debug\ClassLibraryDemo.exe
+C:\Users\cchellaboyina\source\repos\ClassLibraryDemo\ClassLibraryDemo\bin\Debug\ClassLibraryDemo.pdb
+C:\Users\cchellaboyina\source\repos\ClassLibraryDemo\ClassLibraryDemo\bin\Debug\ClassLibrary1.dll
+C:\Users\cchellaboyina\source\repos\ClassLibraryDemo\ClassLibraryDemo\bin\Debug\ClassLibrary1.pdb
+C:\Users\cchellaboyina\source\repos\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\ClassLibraryDemo.csproj.AssemblyReference.cache
+C:\Users\cchellaboyina\source\repos\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\ClassLibraryDemo.csproj.CoreCompileInputs.cache
+C:\Users\cchellaboyina\source\repos\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\ClassLibraryDemo.csproj.CopyComplete
+C:\Users\cchellaboyina\source\repos\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\ClassLibraryDemo.exe
+C:\Users\cchellaboyina\source\repos\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\ClassLibraryDemo.pdb
